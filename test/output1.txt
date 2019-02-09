@@ -1,0 +1,6 @@
+Result:
+Count of fields in table: 6
+Count of records in table: 10
+('Jard', 'Kelby', 'Mead', 'Tine', 'Melodie', 'Ollie', 'Bebe', 'Branden', 'Elihu', 'Aileen')
+('Jard', 'Kelby', 'Mead', 'Tine', 'Melodie', 'Ollie', 'Bebe', 'Branden', 'Elihu', 'Aileen')
+Mead

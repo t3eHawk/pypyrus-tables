@@ -1,0 +1,15 @@
+Count of fields in table: 6
+Count of records in table: 10
+------------------------------------------------------------------------------------
+|1  |Jard    |Jackman      |jjackman0@ovh.net              |Male   |137.32.232.2   |
+|2  |Kelby   |Cleveley     |kcleveley1@theglobeandmail.com |Male   |103.48.190.5   |
+|3  |Mead    |Winsiowiecki |mwinsiowiecki2@mtv.com         |Male   |48.113.7.43    |
+|4  |Tine    |Igo          |tigo3@xing.com                 |Female |81.106.206.206 |
+|5  |Melodie |Belhome      |mbelhome4@meetup.com           |Female |41.17.17.106   |
+|6  |Ollie   |Grisard      |ogrisard5@indiegogo.com        |Female |190.46.134.251 |
+|7  |Bebe    |Cowp         |bcowp6@i2i.jp                  |Female |116.61.228.192 |
+|8  |Branden |Ellick       |bellick7@ft.com                |Male   |154.57.243.252 |
+|9  |Elihu   |Toping       |etoping8@oracle.com            |Male   |19.57.66.142   |
+|10 |Aileen  |Maudsley     |amaudsley9@answers.com         |Female |237.75.127.17  |
+------------------------------------------------------------------------------------
+

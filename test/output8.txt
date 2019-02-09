@@ -1,0 +1,8 @@
+Count of fields in table: 6
+Count of records in table: 1000
+Enter the index of row you want to see: 44
+---------------------------------------------------------------------------
+|id |first_name |last_name |email                 |gender |ip_address     |
+---------------------------------------------------------------------------
+|45 |Kettie     |Stevens   |kstevens18@census.gov |Female |44.241.212.215 |
+---------------------------------------------------------------------------
